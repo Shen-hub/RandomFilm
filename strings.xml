@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string-array name="films">
+        <item>Повелитель терний</item>
+        <item>Сквозб слёзы я притворюсь кошкой</item>
+        <item>Империя мёртвых</item>
+        <item>Ходячий замок</item>
+        <item>Дети моря</item>
+        <item>Укрась прощальное утро цветами обещания</item>
+        <item>Дитя погоды</item>
+    </string-array>
+</resources>
